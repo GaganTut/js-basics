@@ -26,13 +26,13 @@ var favFood = "Pizza";
 console.log(favFood);
 var bestMovie = "Star Wars";
 console.log(bestMovie);
-var favLoveSong = "Do Pal Ruka";
+var favLoveSong = "Love Me More";
 console.log(favLoveSong);
 var cuteAnimal = "Dog";
 console.log(cuteAnimal);
 var favColor = "Green";
 console.log(favColor);
-var favSneaker = "I3";
+var favSneaker = "Kobes";
 console.log(favSneaker);
 var coffeeShop = "The Coffee Bean";
 console.log(coffeeShop);
@@ -334,3 +334,4 @@ function cook(ingredient1, ingredient2, recipeName){
 	return ingredient1 + " and " + ingredient2 + " make a " + recipeName + "!";
 }
 console.log(cook("Onions", "Tomatoes", "Sabzi"));
+
